@@ -1,12 +1,4 @@
-#include <assert.h>
-#include <limits.h>
-#include <math.h>
-#include <stdbool.h>
-#include <stddef.h>
-#include <stdint.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#if 0 
 #include <assert.h>
 #include <limits.h>
 #include <math.h>
@@ -81,4 +73,34 @@ char* readline() {
     data = realloc(data, data_length);
 
     return data;
+}
+#endif
+
+// Simpilify it, we don't need to save strings first
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+	int t, i;
+	scanf("%d", &t);
+	while(t){
+		char s[10000];
+
+		scanf("%s", s);
+		i = 0;
+		while(s[i] != '\0'){
+			if(i%2 == 0)
+				printf("%c", s[i]);
+			i++;
+		}
+		printf(" ");
+		i = 0;
+		while(s[i] != '\0'){
+			if(i%2 == 1)
+				printf("%c", s[i]);
+			i++;
+		}
+		printf("\n");
+		t--;
+	}
 }
