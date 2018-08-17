@@ -12,6 +12,8 @@
 * Day 5: Loops
 * Day 6: Let's Review
 * Day 7: Arrays
+  * [Python 裡 * 與 ** 的用法](
+http://e8859487.pixnet.net/blog/post/403127384-%5Bpython%5D-%2A%2A-%E9%9B%99%E6%98%9F%E8%99%9F%28double-star-asterisk%29-vs-%2A%E5%96%AE%E6%98%9F%E8%99%9F%28st)
 * Day 8: Dictionaries and Maps
 * Day 9: Recursion
 * Day 10: Binary Numbers
