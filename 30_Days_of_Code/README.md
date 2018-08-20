@@ -19,6 +19,8 @@ http://e8859487.pixnet.net/blog/post/403127384-%5Bpython%5D-%2A%2A-%E9%9B%99%E6%
     * The input method has different behavior on my pc and hackerrank server. So I do multiple check.
     * Map is key in this exercise and there is no built-in map in C. I'll get "Terminated due to timeout" with linear search in server with full test.
 * Day 9: Recursion
+  * C:
+    * It pass with full test on hackerrank server, but get "Segmentation fault (core dumped)" in my local pc.
 * Day 10: Binary Numbers
 * Day 11: 2D Arrays
 * Day 12: Inheritance
