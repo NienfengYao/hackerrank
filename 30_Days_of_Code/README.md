@@ -16,9 +16,8 @@
 http://e8859487.pixnet.net/blog/post/403127384-%5Bpython%5D-%2A%2A-%E9%9B%99%E6%98%9F%E8%99%9F%28double-star-asterisk%29-vs-%2A%E5%96%AE%E6%98%9F%E8%99%9F%28st)
 * Day 8: Dictionaries and Maps
   * C:
-    * The input method is different behavior between my pc and hackerrank server.
-    * Map is key and there is no map in C. I'll get "Terminated due to timeout" with linear search in server with full test.
-    * [TBD]
+    * The input method has different behavior on my pc and hackerrank server. So I do multiple check.
+    * Map is key in this exercise and there is no built-in map in C. I'll get "Terminated due to timeout" with linear search in server with full test.
 * Day 9: Recursion
 * Day 10: Binary Numbers
 * Day 11: 2D Arrays
