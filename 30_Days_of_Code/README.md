@@ -25,15 +25,19 @@ http://e8859487.pixnet.net/blog/post/403127384-%5Bpython%5D-%2A%2A-%E9%9B%99%E6%
 * Day 11: 2D Arrays
 * Day 12: Inheritance
 * Day 13: Abstract Classes
+  * [Python 繼承](https://openhome.cc/Gossip/Python/Inheritance.html)
   * [Python 抽象類別](https://openhome.cc/Gossip/Python/AbstractClass.html)
   * [abc — 抽象類別 — 你所不知道的 Python 標準函式庫用法 03](https://blog.louie.lu/2017/07/28/%E4%BD%A0%E6%89%80%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-python-%E6%A8%99%E6%BA%96%E5%87%BD%E5%BC%8F%E5%BA%AB%E7%94%A8%E6%B3%95-03-abc/)
   * [30.8. abc — Abstract Base Classes](https://docs.python.org/3/library/abc.html)
+  * [python 靜態方法、類別方法](https://openhome.cc/Gossip/Python/StaticClassMethod.html)
+  * [The definitive guide on how to use static, class or abstract methods in Python](https://julien.danjou.info/guide-python-static-class-abstract-methods/)
 * Day 14: Scope
 * Day 15: Linked List
 * Day 16: Exceptions - String to Integer
 * Day 17: More Exceptions
 * Day 18: Queues and Stacks
 * Day 19: Interfaces
+  * Reference Day13
 * Day 20: Sorting
 * Day 21: Generics
 * Day 22: Binary Search Trees
