@@ -41,7 +41,9 @@ http://e8859487.pixnet.net/blog/post/403127384-%5Bpython%5D-%2A%2A-%E9%9B%99%E6%
 * Day 20: Sorting
 * Day 21: Generics
 * Day 22: Binary Search Trees
+  * [Write a Program to Find the Maximum Depth or Height of a Tree](https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/)
 * Day 23: BST Level-Order Traversal
+  * [Level-Order Traversal](http://alrightchiu.github.io/SecondRound/binary-tree-traversalxun-fang.html#level)
 * Day 24: More Linked Lists
 * Day 25: Running Time and Complexity
 * Day 26: Nested Logic
