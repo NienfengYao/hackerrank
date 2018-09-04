@@ -46,6 +46,7 @@ http://e8859487.pixnet.net/blog/post/403127384-%5Bpython%5D-%2A%2A-%E9%9B%99%E6%
   * [Level-Order Traversal](http://alrightchiu.github.io/SecondRound/binary-tree-traversalxun-fang.html#level)
 * Day 24: More Linked Lists
 * Day 25: Running Time and Complexity
+  * [求質數演算法的N種境界](https://www.getit01.com/p201807213917086/)
 * Day 26: Nested Logic
 * Day 27: Testing
 * Day 28: RegEx, Patterns, and Intro to Databases
