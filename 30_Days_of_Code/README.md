@@ -40,6 +40,7 @@ http://e8859487.pixnet.net/blog/post/403127384-%5Bpython%5D-%2A%2A-%E9%9B%99%E6%
   * Reference Day13
 * Day 20: Sorting
 * Day 21: Generics
+  * There is no python
 * Day 22: Binary Search Trees
   * [Write a Program to Find the Maximum Depth or Height of a Tree](https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/)
 * Day 23: BST Level-Order Traversal
@@ -51,3 +52,4 @@ http://e8859487.pixnet.net/blog/post/403127384-%5Bpython%5D-%2A%2A-%E9%9B%99%E6%
 * Day 27: Testing
 * Day 28: RegEx, Patterns, and Intro to Databases
 * Day 29: Bitwise AND
+  * Reference "Discuss" tab for optimizing.
