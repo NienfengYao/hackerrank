@@ -19,4 +19,5 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
       * Except Day21, there is no python.
     * Python
       * Introduction
+      * Strings
   * OnGoing
