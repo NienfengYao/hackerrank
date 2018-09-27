@@ -13,11 +13,12 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
-* Status
-  * Done
-    * 30_Days_of_Code.
-      * Except Day21, there is no python.
-    * Python
-      * Introduction
-      * Strings
-  * OnGoing
+* Status (Completed)
+  * 30_Days_of_Code.
+    * Except Day21, there is no python.
+  * Python 3
+    * Introduction (2018/09/12)
+    * Basic_Data_Types (2018/09/17)
+    * Strings (2018/09/22)
+  * C
+    * Introduction (2018/09/14)
