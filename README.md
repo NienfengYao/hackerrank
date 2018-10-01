@@ -14,7 +14,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
 * Status (Completed)
-  * 30_Days_of_Code.
+  * 30_Days_of_Code (2018/09/11)
     * Except Day21, there is no python.
   * Python 3
     * Introduction (2018/09/12)
