@@ -20,5 +20,6 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
     * Introduction (2018/09/12)
     * Basic_Data_Types (2018/09/17)
     * Strings (2018/09/22)
+    * Sets (2018/10/1)
   * C
     * Introduction (2018/09/14)
