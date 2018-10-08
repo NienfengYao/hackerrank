@@ -25,3 +25,5 @@
   * [Built-in Functions](https://docs.python.org/3/library/functions.html#round)
     * round(number[, ndigits])
       * Return number rounded to ndigits precision after the decimal point. If ndigits is omitted or is None, it returns the nearest integer to its input.
+
+  * Integers in Python can be as big as the bytes in your machine's memory. There is no limit in size as there is: 2^31-1 (c++ int) or 2^63-1 (C++ long long int).
