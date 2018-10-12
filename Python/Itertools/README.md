@@ -16,3 +16,7 @@
   * combinations_with_replacement(p, r)
     * r-length tuples, in sorted order, with repeated elements
     * combinations_with_replacement('ABCD', 2): AA AB AC AD BB BC BD CC CD DD
+  * groupby(terable[, key]
+    * sub-iterators grouped by value of key(v)
+    * [k for k, g in groupby('AAAABBBCCDAABBB')] --> A B C D A B
+    * [list(g) for k, g in groupby('AAAABBBCCD')] --> AAAA BBB CC D
