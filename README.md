@@ -21,6 +21,9 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
     * Basic_Data_Types (2018/09/17)
     * Strings (2018/09/22)
     * Sets (2018/10/01)
+    * Conditionals_and_Loops (2018/10/03)
+    * Math (2018/10/08)
+    * Itertools (2018/10/12)
   * C
     * Introduction (2018/09/14)
     * Conditionals_and_Loops (2018/10/03)
