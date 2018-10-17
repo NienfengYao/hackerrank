@@ -27,3 +27,4 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
   * C
     * Introduction (2018/09/14)
     * Conditionals_and_Loops (2018/10/03)
+    * Arrays_and_Strings (2018/10/16)
