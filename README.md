@@ -28,3 +28,19 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
     * Introduction (2018/09/14)
     * Conditionals_and_Loops (2018/10/03)
     * Arrays_and_Strings (2018/10/16)
+
+* ToDo
+  * Think to go organize the data.
+    * Ref: [clfm/HackerRank](https://github.com/clfm/HackerRank)
+    * Design:
+      * Main
+        * Environment (C, Python3)
+        * Status (C, Python3)
+          * language (solved/all)
+      * Language: status(Done/OnGoing)
+        * class (solved/all) (Done/OnGoing/Pending)
+      * class:
+        * topic: link-of-question, link-of-my_exe, the purpose
+        * reference or notes
+        
+       
